@@ -269,7 +269,7 @@ footer {
     margin-bottom: 4px;
 }
 
-progress-type {
+.progress-type {
     position: absolute;
     left: 0px;
     font-weight: 400;
